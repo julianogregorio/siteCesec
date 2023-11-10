@@ -1,0 +1,154 @@
+body,
+ul,
+li,
+p,
+img {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    font-size: 1rem;
+    font-family: Arial;
+}
+
+p {
+    text-align: justify;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+h1 {
+    margin: 0px;
+    padding: 0px;
+    font-size: 2.3rem;
+    color: #98342f;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    margin: 0px;
+    padding: 0px;
+    font-size: 1.7rem;
+    color: #3f3768;
+    text-align: center;
+}
+
+h3 {
+    margin: 0px;
+    padding: 0px;
+    font-size: 1.5rem;
+    color: #3f3768;
+    text-align: center;
+}
+
+h4 {
+    color: #3f3768;
+    text-align: center;
+}
+
+footer {
+    background-color: #726c92;
+    text-align: center;
+}
+
+footer p,
+i {
+    text-align: center;
+    color: white;
+    align-items: center;
+}
+
+gmp-map {
+    height: 100%;
+}
+
+.header {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+    padding: px;
+    background-color: #726c92;
+}
+
+.menu {
+    display: flex;
+}
+
+.menu li {
+    margin: 10px;
+
+}
+
+.menu li a {
+    display: block;
+    padding: 10px;
+}
+
+.grid-wrapper {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0px;
+    margin: 20px;
+}
+
+.container-um {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    align-items: center;
+    text-align: center;
+    padding: 0px;
+    margin: 20px;
+}
+
+.container-dois {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    align-items: center;
+    text-align: center;
+    padding: 0px;
+    margin: 20px;
+}
+
+.item {
+    margin: 7px;
+}
+
+.mapa {
+    margin: 20px;
+    padding: 0px;
+    align-items: center;
+    text-align: center;
+}
+
+.icone {
+    font-size: 2em;
+    padding: 5px;
+}
+
+
+.texto h1{
+    margin: 100px;
+}
+
+.texto h2{
+    margin: 20px;
+    padding: 20px;
+    font-size: 1.5rem;
+    color: #3f3768;
+    text-align: left;
+}
+
+.texto p{
+    margin: 20px;
+}
+.texto ul, li{
+    margin: 20px;
+    padding: 3px;
+}
