@@ -130,6 +130,8 @@ gmp-map {
 .iconeRedesSociais {
     image-resolution: 32px;
     padding: 5px;
+    width: 40px;
+    right: 40px;
 }
 
 
