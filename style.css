@@ -127,8 +127,8 @@ gmp-map {
     text-align: center;
 }
 
-.icone {
-    font-size: 2em;
+.iconeRedesSociais {
+    image-resolution: 32px;
     padding: 5px;
 }
 
