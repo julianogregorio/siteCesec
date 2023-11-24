@@ -66,14 +66,16 @@ gmp-map {
 }
 
 .header {
+    /*
     display: flex;
-    flex-wrap: nowrap;
+    flex-wrap: nowrap;*/
     justify-content: space-between;
     align-items: center;
     padding: px;
     background-color: #726c92;
 }
 
+/*
 .menu {
     display: flex;
 }
@@ -87,6 +89,8 @@ gmp-map {
     display: block;
     padding: 10px;
 }
+
+*/
 
 .grid-wrapper {
     display: flex;
