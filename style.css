@@ -1,3 +1,4 @@
+/*
 body,
 ul,
 li,
@@ -9,6 +10,7 @@ img {
     font-size: 1rem;
     font-family: Arial;
 }
+*/
 
 p {
     text-align: justify;
@@ -65,18 +67,45 @@ gmp-map {
     height: 100%;
 }
 
+/*
 .header {
-    /*
+    
     display: flex;
-    flex-wrap: nowrap;*/
+    flex-wrap: nowrap;
     justify-content: space-between;
     align-items: center;
     padding: px;
     background-color: #726c92;
 }
+*/
 
-.segundoMenu{
+header, .navbar{
     background-color: #726c92;
+
+}
+
+#nav-container{
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+#logo{
+    width: 75px;
+}
+
+.navbar-brand{
+    padding: 0;
+    color: #fff;
+}
+
+.navbar-brand:hover{
+    color: #fff;
+}
+#navbar-links a{
+    color: #fff
+}
+.navbar-expand-lg .navbar-nav .nav-link{
+    padding: 1rem .8rem,
 }
 
 /*
