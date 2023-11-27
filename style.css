@@ -14,6 +14,16 @@ img {
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400&display=swap');
 
+section image,
+h1,
+h2,
+h3{
+    align-items: center;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
 p {
     text-align: justify;
 }
