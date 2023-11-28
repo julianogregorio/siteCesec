@@ -24,7 +24,9 @@ img {
 
 .cardStyle{
     justify-content: space-between;
+    align-items: center;
 }
+
 p {
     text-align: justify;
 }
