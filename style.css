@@ -154,6 +154,7 @@ header, .navbar{
     margin: 20px;
 }
 
+/*
 .container-um {
     display: grid;
     grid-template-columns: 2fr 1fr;
@@ -161,6 +162,15 @@ header, .navbar{
     text-align: center;
     padding: 0px;
     margin: 20px;
+}
+*/
+
+.box-um{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    align-items: center;
+    text-align: center;
+    padding: 0px;
 }
 
 .container-dois {
