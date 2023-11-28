@@ -168,7 +168,7 @@ header, .navbar{
 .box-um{
     display: grid;
     grid-template-columns: 2fr 1fr;
-    flex-wrap: wrap;
+    flex-wrap: wrap-reverse;
     align-items: center;
     text-align: center;
     padding: 0px;
