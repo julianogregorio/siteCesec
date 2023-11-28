@@ -28,6 +28,12 @@ img {
     background-color: #726c92;
 }
 
+#cardStyle{
+    justify-content: space-between;
+    align-items: center;
+    background-color: #726c92;
+}
+
 p {
     text-align: justify;
 }
