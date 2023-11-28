@@ -21,6 +21,10 @@ img {
     padding: 0px;
     margin: 0px;
 }
+
+.cardStyle{
+    justify-content: space-between;
+}
 p {
     text-align: justify;
 }
