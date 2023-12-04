@@ -72,14 +72,14 @@ h4 {
 
 footer {
     background-color: #726c92;
-    text-align: center;
+    /*text-align: center;*/
 }
 
 footer p,
 i {
     text-align: center;
-    color: white;
     align-items: center;
+    color: white;
 }
 
 gmp-map {
