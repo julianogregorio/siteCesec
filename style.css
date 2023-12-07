@@ -246,5 +246,5 @@ header, .navbar{
     padding: 3px;
 }
 .mt-1{
-    margin-top: ($spacer * .25) !important;
+    margin-top: $spacer !important;
 }
