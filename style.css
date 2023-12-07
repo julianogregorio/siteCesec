@@ -245,6 +245,6 @@ header, .navbar{
     margin: 20px;
     padding: 3px;
 }
-.px-4{
-    padding-top: ($spacer * 1.5) !important;
+.mt-4{
+    margin-top: ($spacer * 1.5) !important;
 }
