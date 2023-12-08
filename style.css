@@ -63,14 +63,19 @@ h2 {
 h3 {
     margin: 0px;
     padding: 0px;
-    font-size: 1.5rem;
+    font-size: 2.5rem;
     color: #3f3768;
     text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
 }
 
 h4 {
     color: #3f3768;
     text-align: center;
+    font-size: 2.3rem;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
 }
 
 footer {
